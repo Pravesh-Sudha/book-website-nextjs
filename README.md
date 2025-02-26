@@ -100,6 +100,3 @@ If you have any questions or suggestions, feel free to reach out through my soci
 ✨ [Twitter](https://www.x.com/praveshstwt)  
 ✨ [YouTube](https://www.youtube.com/@pravesh-sudha)  
 ✨ [LinkedIn](https://www.linkedin.com/in/pravesh-sudha/)  
-
-
-
