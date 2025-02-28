@@ -2,7 +2,7 @@
 
 [![Next.js](https://img.shields.io/badge/Next.js-12.0.8-blue.svg)](https://nextjs.org/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
 
-A web application that enhances the reading experience by allowing users to interact with book content through various features
+A web application that enhances the reading experience by allowing users to interact with book content through various features.
 
 ![BOOK READER APP](https://raw.githubusercontent.com/vivekneupane11/book-website-nextjs/refs/heads/main/Screenshot%202024-09-25%20at%2023.28.09.png)
 
